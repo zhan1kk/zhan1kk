@@ -3,10 +3,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/zhannur-bolat-b30117259/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:zhannur.blt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=yellow" alt="Gmail Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/zhan1k/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
+  </a>
 </div>
 <!--
 **zhan1kk/zhan1kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
