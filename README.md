@@ -7,13 +7,15 @@
   <a href="https://www.linkedin.com/in/zhannur-bolat-b30117259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:zhannur.blt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
   <a href="https://leetcode.com/u/zhan1k/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
+  <a href="mailto:zhannur.blt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=zhan1kk&style=flat-square&color=blue" alt=""/>
 <!--
 **zhan1kk/zhan1kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
