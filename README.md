@@ -1,12 +1,10 @@
 # Hi 👋 my name is Zhannur
 
----
 
-##I am Data Scientist studying in Germany
+## I am Data Scientist studying in Germany
 
----
 
-###About me
+### About me
 
 - :brain: I’m studying in a university (finished 2nd year recently) and trying to expand my knowledge using various sources: Codecademy, Udemy, LeetCode, and IT-related YouTube channels.
 
