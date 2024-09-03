@@ -1,8 +1,21 @@
-## Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi 👋 my name is Zhannur
 
+---
+
+##I am Data Scientist studying in Germany
+
+---
+
+###About me
+
+- :brain: I’m studying in a university (finished 2nd year recently) and trying to expand my knowledge using various sources: Codecademy, Udemy, LeetCode, and IT-related YouTube channels.
+
+- 📖: I use Python a lot but I also know C++, Go, HTML/CSS, JavaScript, MySQL.
+
+- 🧰: Amongst tools I know how to use: Jupyter Notebook, Git, JetBrains products, VSCode, Figma, Notion, Google Docs.
+
+I have done some small projects that you can find in my repositories, and currently I am focused on completing a bigger project with a team. 
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/zhannur-bolat-b30117259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,18 +29,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=zhan1kk&style=flat-square&color=blue" alt=""/>
-<!--
-**zhan1kk/zhan1kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://roadmap.sh/card/tall/66cc6a8392ec1a8a7379d7eb?variant=dark
+
